@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "formulahendry.code-runner",
+        "platformio.platformio-ide",
+        "ms-vscode.cpptools",
+        "coenraads.bracket-pair-colorizer-2",
+        "mhutchie.git-graph",
+        "michelemelluso.gitignore",
+        "oderwat.indent-rainbow",
+        "shardulm94.trailing-spaces",
+        "danielpinto8zz6.c-cpp-compile-run"
+    ]
+}
